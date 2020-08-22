@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+Small Elixir app to handle, shuffle and deal a deck of cards. 
 
 ## Installation
 
